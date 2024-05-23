@@ -10,4 +10,5 @@ data class Flowers(
     val name: String,
     val type: String,
     val color: String,
+    val description: String
 )

@@ -32,7 +32,8 @@ fun RootNavigationGraph(modifier: Modifier = Modifier, navController: NavHostCon
                                 flower.image,
                                 flower.name,
                                 flower.color,
-                                flower.type
+                                flower.type,
+                                flower.description
                             )
                         )
                     },

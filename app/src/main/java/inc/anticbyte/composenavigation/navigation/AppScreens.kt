@@ -13,6 +13,7 @@ sealed class AppScreens {
         val image: Int = 0,
         val name: String = "",
         val color: String = "",
-        val type: String = ""
+        val type: String = "",
+        val description: String = ""
     )
 }
