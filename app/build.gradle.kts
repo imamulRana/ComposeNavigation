@@ -62,7 +62,6 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.compose.navigation)
     implementation(libs.kotlinx.json)
-
     //test
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
